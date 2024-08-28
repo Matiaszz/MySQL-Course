@@ -5,6 +5,8 @@ venv
 .venv
 .env
 .git
+__pycache__
+static_files
 
 # Logs
 logs
