@@ -7,7 +7,7 @@ venv
 .git
 __pycache__
 static_files
-
+mysql_section
 # Logs
 logs
 *.log
